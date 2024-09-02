@@ -1,0 +1,92 @@
+body {
+  background-color: #121312;
+  color: #4cc823;
+}
+
+.pfp-top {
+  transform: translateY(15px);
+}
+
+.head {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.center {
+  text-align: center;
+}
+
+.about {
+  margin: auto;
+  width: 50vw;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: gray;
+  border-style: solid;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.links {
+  margin: 3vh auto;
+  padding: 1vh 0;
+  min-height: 2vh;
+  height: 2vh;
+  width: fit-content;
+}
+
+svg {
+  fill: #4cc823;
+}
+
+a:link,
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.BlogCard {
+  border-color: gray;
+  border-width: 2px;
+  border-radius: 5px;
+  border-style: solid;
+}
+
+.BlogCard h3,
+.BlogCard h6 {
+  margin: 5px;
+  margin-left: 10px;
+}
+
+.BlogContainer {
+  margin: 0;
+  margin: auto;
+  width: 30vw;
+}
+
+.BlogContainer a {
+  margin: 1px;
+}
+
+.flex-less {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 150px; */
+}
+
+.txt-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  color: #4cc823;
+}
