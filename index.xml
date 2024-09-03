@@ -3,18 +3,18 @@
 <channel>
   <title>Pigeon Blog</title>
   <description>This is Just my blog where i write about all kind of different stuff related to tech and programming</description>
-  <link>https://pigeoncoding.github.io/PigeonWeb/</link>
+  <link>https://pigeonweb.neocities.org</link>
   <lastBuildDate>
-    Tue, 03 Sep 2024 10:27:48 +0000
+    Tue, 03 Sep 2024 11:56:35 +0000
   </lastBuildDate>
-  <ttl>20000</ttl>
+  <ttl>1725364595</ttl>
 
   <item>
     <title>My Comsic Alpha I review</title>
     <description>
       My thoughts after trying out System76's Cosmic DE
     </description>
-    <link>https://pigeoncoding.github.io/PigeonWeb/blogs/cosmic-alpha.html</link>
+    <link>https://pigeonweb.neocities.org/blogs/cosmic-alpha.html</link>
     <pubDate>
       Tue, 03 Sep 2024 10:27:48 +0000
     </pubDate>
