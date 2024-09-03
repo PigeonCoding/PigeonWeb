@@ -97,6 +97,11 @@ hr {
   margin-right: auto;
 }
 
+.host {
+  width: 100px;
+  transform: translateX(94vw) translateY(43vh);
+}
+
 @media only screen and (max-width: 768px) {
   .blog {
     width: 90vw;
