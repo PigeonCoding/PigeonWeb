@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Pigeon Blog</title>
+  <description>This is Just my blog where i write about all kind of different stuff related to tech and programming</description>
+  <link>https://rssguide.neocities.org</link>
+  <lastBuildDate>
+    Tue, 03 Sep 2024 10:27:48 +0000
+  </lastBuildDate>
+  <ttl>20000</ttl>
+
+  <item>
+    <title>My Comsic Alpha I review</title>
+    <description>
+      My thoughts after trying out System76's Cosmic DE
+    </description>
+    <link>https://rssguide.neocities.org/the_article.html</link>
+    <pubDate>
+      Tue, 03 Sep 2024 10:27:48 +0000
+    </pubDate>
+  </item>
+</channel>
+</rss>
